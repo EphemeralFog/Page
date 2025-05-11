@@ -1,3 +1,6 @@
+#profile-title: FreeHosted Configurations
+#profile-update-interval: 1
+
 vless://eccc93be-415a-44c6-982e-27c28059f63b@pnode-01.rrhosting.eu:7615?security=none&encryption=none&headerType=none&type=tcp#🇩🇪〢VLess-TCP-Direct
 vless://eccc93be-415a-44c6-982e-27c28059f63b@prem-eu2.bot-hosting.net:20113?security=none&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮〢VLess-TCP-Direct
 vless://54a4dbfb-fd54-4c47-a581-2a839114ce23@prem-eu1.bot-hosting.net:22280?security=none&type=grpc&serviceName=vless&packetEncoding=xudp&encryption=none#🇫🇮〢VLess-gRPC-Direct
